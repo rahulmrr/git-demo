@@ -18,3 +18,8 @@ b=5
 print(c+b)
 
 fjyvfffyujv
+ljkvh gfd
+
+e=0
+t=6
+print(e*t)
