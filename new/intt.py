@@ -18,8 +18,11 @@ b=5
 print(c+b)
 
 fjyvfffyujv
-ljkvh gfd
+ljkvh
 
 e=0
 t=6
 print(e*t)
+zdbsrn
+waerhexa
+eawrhXSE
