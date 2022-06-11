@@ -16,6 +16,7 @@ print(a)
 c=8
 b=5
 print(c+b)
+print(c*b)
 
 fjyvfffyujv
 ljkvh gfd
