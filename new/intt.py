@@ -24,6 +24,7 @@ ljkvh
 e=0
 t=6
 print(e*t)
+print(e+t)
 zdbsrn
 waerhexa
 eawrhXSE
